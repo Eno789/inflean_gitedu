@@ -1,0 +1,8 @@
+Backend:
+  manager: Enov/Backend
+  ∎source:
+    -config
+    └── settings.py
+    
+    -accounts
+    └── views.py
