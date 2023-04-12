@@ -1,5 +1,4 @@
 Frontend:
-  manager: Enov/Frontend
   ∎main:
     -index.html 
     -apply.html
