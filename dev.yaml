@@ -1,5 +1,4 @@
 Backend:
-  manager: Enov/Dev
   ∎source:
     -dev
     └── backup.py
